@@ -13,10 +13,14 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222060008
+# Name-Aishwarya K
 # Write your code here
-
+a = int(input())
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
 char = input("Enter a character: ")
 char_lower = char.lower()
 
@@ -27,5 +31,7 @@ else:
 ```
 
 ## OUTPUT
+<img width="407" height="295" alt="image" src="https://github.com/user-attachments/assets/0514fa87-0366-4614-84f0-b5c364786e9b" />
 
 ## RESULT
+The program was successfully executed. It correctly identified whether the given number is even or odd using if..else statement.
